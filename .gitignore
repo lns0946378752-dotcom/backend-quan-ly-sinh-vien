@@ -1,0 +1,6 @@
+node_modules/
+dist/
+
+# Không chia sẻ file cấu hình riêng của máy cá nhân.
+.env
+
